@@ -1,0 +1,11 @@
+node_modules/
+
+output/color/
+output/error/
+output/layout/
+output/normal/
+
+.env
+
+.DS_Store
+Thumbs.db
